@@ -29,7 +29,7 @@ php artisan serve
 
 ==============================
 
-git clone 
+git clone https://github.com/suruzz123/l_v_basic.git
 
 composer install
 

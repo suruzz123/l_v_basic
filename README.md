@@ -35,8 +35,6 @@ composer install
 
 npm install
 
-npm install vue-router 
-
 npm run dev
 
 npm run watch

@@ -45,7 +45,7 @@ php artisan serve
 
 ===========================
 
-install vue cli globally for the lefetime >> 
+install vue cli globally for the lifetime >> 
 
 npm install --global vue-cli
 

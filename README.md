@@ -43,3 +43,19 @@ php artisan migrate
 
 php artisan serve
 
+===========================
+
+install vue cli globally for the lefetime >> 
+
+npm install --global vue-cli
+
+vue --version
+
+=============================
+
+install vue cli globally for the lefetime >> 
+
+npm install --global vue-cli
+
+vue --version
+
